@@ -21,17 +21,14 @@
   },
   "dependencies": {
     "@discordjs/collection": "^1.5.3",
-    "get-urls": "^11.0.0",
-    "instagram_mqtt": "^1.2.2",
-    "instagram-private-api": "^1.45.3",
+    "get-urls": "^10.0.0",
+    "instagram_mqtt": "git@github.com:Debanjan-San/instagram_mqtt.git",
+    "instagram-private-api": "^1.46.1",
     "jimp": "^0.22.8",
     "node-fetch": "^2.6.1"
   },
-  "peerDependencies": {
-    "instagram-private-api": "^1.45.3"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/9xN/node-ig-framework"
+    "url": "https://github.com/Debanjan-San/node-ig-framework"
   }
 }
